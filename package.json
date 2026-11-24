@@ -1,7 +1,7 @@
 {
   "name": "cine-western",
   "productName": "Ciné Western",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Catalogue et gestionnaire de films western : catalogue, collection, journal, listes et sagas, quiz, statistiques.",
   "author": {
     "name": "Didier Beltran"
